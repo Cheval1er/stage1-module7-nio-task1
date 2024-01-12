@@ -1,6 +1,5 @@
 package com.epam.mjc.nio;
 
-import com.epam.mjc.nio.Profile;
 
 import java.io.File;
 import java.io.BufferedReader;
